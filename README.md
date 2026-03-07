@@ -32,25 +32,19 @@ Also draw sometimes. Unrelated to any of this.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**ai & vision**
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
 ---
 
 ### stats
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=philo-nabil&show_icons=true&theme=calm&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philo-nabil&layout=compact&theme=calm&hide_border=true&langs_count=6" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=philo-nabil&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philo-nabil&layout=compact&theme=buefy&hide_border=true&langs_count=6" />
 
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=philo-nabil&theme=calm&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=philo-nabil&theme=buefy&hide_border=true" />
 </div>
 
 ---
