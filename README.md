@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, I'm Philo 👋
+# hey wassup
 
 *still figuring it out, but building along the way*
 
