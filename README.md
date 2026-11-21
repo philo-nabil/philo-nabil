@@ -19,22 +19,6 @@ Embedded systems student. I write C for AVR microcontrollers, program robots in 
 
 ---
 
-### Tech
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,py,ts,react,java,spring,mysql,vscode,git,linux&perline=12" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AVR%20ATmega32A-ED1C24?style=flat-square&logo=microchip&logoColor=white" />
-  <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white" />
-  <img src="https://img.shields.io/badge/ev3dev-555555?style=flat-square" />
-  <img src="https://img.shields.io/badge/VEX%20IQ-FF6B00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Proteus-1F5E9C?style=flat-square" />
-</p>
-
----
-
 ### Projects
 
 <table>
