@@ -28,6 +28,8 @@ Embedded systems student. I write C for AVR microcontrollers, program robots in 
 #### [crystal-11](https://github.com/philo-nabil/crystal-11)
 A VS Code extension that generates ATmega32A setup code. Configure GPIO, USART, ADC, timers, SPI, I2C and interrupts in a form, and it writes `main.c`, builds it with avr-gcc and flashes it with avrdude. A free, cross-platform alternative to CodeVision's Windows-only wizard.
 
+Published on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=philo-nabil.crystal-11-avr-wizard), with 15+ installs.
+
 `TypeScript` `VS Code API` `AVR`
 
 </td>
@@ -74,7 +76,5 @@ Build a graph, then step through BFS or DFS one node at a time.
 
 ### Contact
 
-Open to internships and junior roles in embedded, robotics or backend.
+Open to internships and junior roles in embedded systems and robotics.
 Email: [philobatir2017@gmail.com](mailto:philobatir2017@gmail.com)
-
-<sub>I also draw.</sub>
