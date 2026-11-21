@@ -1,10 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Philobatir%20Nabil&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=embedded%20systems%20·%20robotics%20·%20dev%20tools&descAlignY=58&descSize=16" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+  <img src="assets/banner-light.svg" width="100%" alt="Philobatir Nabil. Embedded systems, robotics, developer tools. A logic analyzer trace of UART frames spelling PHILO." />
+</picture>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=2C9FAF&center=true&vCenter=true&width=520&lines=Embedded+systems+student;Bare-metal+C+on+AVR;Robots+and+the+tools+around+them" />
-
-<br/>
 
 <a href="https://philo-nabil.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/philobatir-nabil/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -95,5 +94,3 @@ Open to internships and junior roles in embedded, robotics or backend.
 Email: [philobatir2017@gmail.com](mailto:philobatir2017@gmail.com)
 
 <sub>I also draw.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=footer" width="100%" />
